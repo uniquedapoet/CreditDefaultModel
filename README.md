@@ -2,6 +2,8 @@
 
 This project aims to develop a predictive model for assessing the likelihood of loan defaults. Using a dataset that includes various borrower characteristics, the model leverages machine learning techniques to provide insights that can help financial institutions minimize risk, optimize lending strategies, and enhance decision-making.
 
+[See Main Report Here!](loan_default_model_and_EDA.ipynb)
+
 ---
 
 ## Table of Contents
